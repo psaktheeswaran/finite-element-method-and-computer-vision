@@ -1,0 +1,9 @@
+git clone https://github.com/sfepy/sfepy.git
+cd sfepy
+pip install .
+
+https://github.com/kinnala/scikit-fem.git
+
+pip install scikit-fem[all]
+
+and also you can build your own library or code by your own also
